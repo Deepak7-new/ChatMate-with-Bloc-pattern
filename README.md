@@ -1,6 +1,6 @@
 # chat_mate
 
-A Flutter chat application.
+A Flutter chat application using Bloc pattern for state management.
 
 ## Getting Started
 
